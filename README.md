@@ -19,31 +19,8 @@
 <br/>
 
 <!-- QUICK BIO -->
-<div align="center">
-Yenilenebilir enerji, sağlık ve e-ticaret gibi farklı sektörlerde projeler geliştirmiş deneyimli bir frontend ve full stack geliştiriciyim. **Angular** (v12–18), **Java Spring Boot**, **NativeScript**, **Drupal** ve **PHP** gibi teknolojilerle kullanıcı dostu, ölçeklenebilir ve performanslı uygulamalar geliştiriyorum. SEO optimizasyonu ve test otomasyonu konularında güçlü bir yetkinliğe sahibim.
 
-</div>
-
----
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/aliparlatti">
-          <img height="170" src="https://github-readme-stats.vercel.app/api?username=aliparlatti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ali's GitHub stats" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/aliparlatti">
-          <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliparlatti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+Yenilenebilir enerji, sağlık ve e-ticaret gibi farklı sektörlerde projeler geliştirmiş deneyimli bir frontend ve full stack geliştiriciyim. **Angular** (v12–20), **Java Spring Boot**, **NativeScript**, **Drupal** ve **PHP** gibi teknolojilerle kullanıcı dostu, ölçeklenebilir ve performanslı uygulamalar geliştiriyorum. SEO optimizasyonu ve test otomasyonu konularında güçlü bir yetkinliğe sahibim.
 
 ---
 
@@ -78,8 +55,8 @@ Yenilenebilir enerji, sağlık ve e-ticaret gibi farklı sektörlerde projeler g
       <td align="center" width="14%">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" /><br><strong>CSS3 / SASS</strong>
       </td>
-      <td align="center" width="14%">
-        <img src="https://skillicons.dev/icons?i=ionic" width="40" height="40" alt="Ionic" /><br><strong>Ionic / NativeScript</strong>
+       <td align="center" width="14%">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="androidstudio" /><br><strong>Ionic</strong>
       </td>
       <td align="center" width="14%">
         <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" /><br><strong>MySQL</strong>
@@ -113,6 +90,59 @@ Yenilenebilir enerji, sağlık ve e-ticaret gibi farklı sektörlerde projeler g
         <br/><br/>
         <strong>POS / Mağaza Yönetimi (PWA)</strong>
         <p>Angular 17 tabanlı, PWA desteği ve çoklu dil altyapısına sahip offline-first POS çözümü.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+---
+
+## 📦 Öne Çıkan Repolar
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/aliparlatti/fodmap">
+          <img src="https://img.shields.io/badge/Fodmap-React%20Native-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Fodmap Repo"/>
+        </a>
+        <p>React Native tabanlı mobil uygulama.</p>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/aliparlatti/superead-testcase-angular">
+          <img src="https://img.shields.io/badge/SuperRead-Testcase-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="SuperRead Repo"/>
+        </a>
+        <p>Angular proje, role bazlı yetkilendirme ve test case yönetimi.</p>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/aliparlatti/myliba-testcase-angular">
+          <img src="https://img.shields.io/badge/MyLiba-Firebase%20Realtime-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="MyLiba Repo"/>
+        </a>
+        <p>Angular projede Firebase Realtime Database kullanımı.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/aliparlatti">
+          <img height="170" src="https://github-readme-stats.vercel.app/api?username=aliparlatti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ali's GitHub stats" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/aliparlatti">
+          <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliparlatti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        </a>
       </td>
     </tr>
   </table>
